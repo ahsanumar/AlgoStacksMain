@@ -35,7 +35,7 @@ require "head.php";
 <!-- Blue with white text -->
 <nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
 
-<!-- Navbar Ends ->
+<!-- Navbar Ends -->
 
 <div id="demo" class="carousel slide" data-ride="carousel">
 
