@@ -4,7 +4,6 @@ require "head.php";
 
 ?>
 
-//Write your HTML code below this line.
 <nav class="navbar navbar-expand-sm bg-light navbar-light">
   <ul class="navbar-nav">
     <li class="nav-item active">
