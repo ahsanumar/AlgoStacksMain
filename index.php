@@ -61,31 +61,31 @@ require "head.php";
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="image2.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image2.jpg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item">
-      <img src="image3.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image3.jpg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image5.jpeg" alt="image" width="100%" height="790">
+      <img src="assets/images/image5.jpeg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image6.jpeg" alt="image" width="100%" height="790">
+      <img src="assets/images/image6.jpeg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image11.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image11.jpg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image13.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image13.jpg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image14.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image14.jpg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image15.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image15.jpg" alt="image" width="100%" height="790">
     </div>
     <div class="carousel-item"> 
-      <img src="image17.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image17.jpg" alt="image" width="100%" height="790">
     </div>  
   </div>
   
