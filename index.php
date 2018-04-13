@@ -4,9 +4,8 @@ require "head.php";
 
 ?>
 
-<!--Write your HTML code below this line.-->
-
-<nav class="navbar navbar-expand-sm bg-light navbar-light">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+<a class="navbar-brand" href="#">Logo</a>
   <ul class="navbar-nav">
     <li class="nav-item active">
       <a class="nav-link" href="#">Home</a>
@@ -23,18 +22,16 @@ require "head.php";
     <li class="nav-item">
       <a class="nav-link" href="#">Contact</a>
     </li>
-    <li class="nav-item">
-      <a class="nav-link disabled" href="#">Disabled</a>
-    </li>
+
   </ul>
+       <button  class="btn btn-success" type="submit">Login</button>
 </nav>
 
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">...</nav>
 
-<!-- Navbar Ends -->
-
+<nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
 <div id="demo" class="carousel slide" data-ride="carousel">
 
-  <!-- Indicators -->
   <ul class="carousel-indicators">
     <li data-target="#demo" data-slide-to="0" class="active"></li>
     <li data-target="#demo" data-slide-to="1"></li>
@@ -50,8 +47,6 @@ require "head.php";
     <li data target="#demo" data-slide-to="11"></li>
     <li data target="#demo" data-slide-to="12"></li>
   </ul>
-  
-  <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="assets/images/image2.jpg" alt="image" width="100%" height="735vh">
@@ -81,8 +76,6 @@ require "head.php";
       <img src="assets/images/image17.jpg" alt="image" width="100%" height="735vh">
     </div>  
   </div>
-  
-  <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
   </a>
