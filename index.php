@@ -29,11 +29,6 @@ require "head.php";
   </ul>
 </nav>
 
-<!-- Black with white text -->
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">...</nav>
-
-<!-- Blue with white text -->
-<nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
 
 <!-- Navbar Ends -->
 
@@ -59,31 +54,31 @@ require "head.php";
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/image2.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image2.jpg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item">
-      <img src="assets/images/image3.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image3.jpg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image5.jpeg" alt="image" width="100%" height="790">
+      <img src="assets/images/image5.jpeg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image6.jpeg" alt="image" width="100%" height="790">
+      <img src="assets/images/image6.jpeg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image11.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image11.jpg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image13.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image13.jpg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image14.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image14.jpg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image15.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image15.jpg" alt="image" width="100%" height="735vh">
     </div>
     <div class="carousel-item"> 
-      <img src="assets/images/image17.jpg" alt="image" width="100%" height="790">
+      <img src="assets/images/image17.jpg" alt="image" width="100%" height="735vh">
     </div>  
   </div>
   
