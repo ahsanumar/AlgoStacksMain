@@ -22,9 +22,8 @@ require "head.php";
     <li class="nav-item">
       <a class="nav-link" href="#">Contact</a>
     </li>
-    <li class="nav-item">
-      <a class="nav-link disabled" href="#">Disabled</a>
-    </li>
+
   </ul>
+       <button  class="btn btn-success" type="submit">Login</button>
 </nav>
 
