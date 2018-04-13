@@ -4,7 +4,8 @@ require "head.php";
 
 ?>
 
-<nav class="navbar navbar-expand-sm bg-light navbar-light">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+<a class="navbar-brand" href="#">Logo</a>
   <ul class="navbar-nav">
     <li class="nav-item active">
       <a class="nav-link" href="#">Home</a>
@@ -27,8 +28,3 @@ require "head.php";
   </ul>
 </nav>
 
-<!-- Black with white text -->
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">...</nav>
-
-<!-- Blue with white text -->
-<nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
