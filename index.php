@@ -28,8 +28,6 @@ require "head.php";
 </nav>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">...</nav>
-
-<nav class="navbar navbar-expand-sm bg-primary navbar-dark">...</nav>
 <div id="demo" class="carousel slide" data-ride="carousel">
 
   <ul class="carousel-indicators">
