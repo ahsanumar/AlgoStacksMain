@@ -22,12 +22,9 @@ require "head.php";
     <li class="nav-item">
       <a class="nav-link" href="#">Contact</a>
     </li>
-
   </ul>
-       <button  class="btn btn-success" type="submit">Login</button>
+  <button  class="btn btn-success" type="submit">Login</button>
 </nav>
-
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark">...</nav>
 <div id="demo" class="carousel slide" data-ride="carousel">
 
   <ul class="carousel-indicators">
@@ -151,49 +148,49 @@ require "head.php";
   </div>
 </div>-->
 
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
+<section id="testimonial">
+    <div class="container">
+        <div class="row">
+          
+            <div class="col-lg-8 col-lg-offset-2 col-xs-12 text-center"> 
+                    
+                        <h2><span class="ion-minus"></span> Testimonials <span class="ion-minus"></span></h2>
+                        <i class="fa fa-quote-right"></i>
+                        
+                        
+                        <div id="slider" class="carousel slide" data-ride="carousel">
+                        
+                            <ol class="carousel-indicators">
+                                <li data-target="#slider" data-slide-to="0" class="active"></li>
+                                <li data-target="#slider" data-slide-to="1"></li>
+                                <li data-target="#slider" data-slide-to="2"></li>
+                            </ol>
+                            
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                    <img src="http://via.placeholder.com/350x300">
+                                    <h5>Jane Doe</h5>
+                                </div>
+                                
+                                <div class="item">
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                     <img src="http://via.placeholder.com/350x300">
+                                    <h5>John Doe</h5>
+                                </div>
 
-	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" media="all">
-	
-<div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
-		<div class="testimonial4_header">
-			<h4>what our clients are saying</h4>
-		</div>
-		<ol class="carousel-indicators">
-			<li data-target="#testimonial4" data-slide-to="0" class="active"></li>
-			<li data-target="#testimonial4" data-slide-to="1"></li>
-			<li data-target="#testimonial4" data-slide-to="2"></li>
-		</ol>
-		<div class="carousel-inner" role="listbox">
-			<div class="item active">
-				<div class="testimonial4_slide">
-					<img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
-					<p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-					<h4>Ben Hanna</h4>
-				</div>
-			</div>
-			<div class="item">
-				<div class="testimonial4_slide">
-					<img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
-					<p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-					<h4>Ben Hanna</h4>
-				</div>
-			</div>
-			<div class="item">
-				<div class="testimonial4_slide">
-					<img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
-					<p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-					<h4>Ben Hanna</h4>
-				</div>
-			</div>
-		</div>
-		<a class="left carousel-control" href="#testimonial4" role="button" data-slide="prev">
-			<span class="fa fa-chevron-left"></span>
-		</a>
-		<a class="right carousel-control" href="#testimonial4" role="button" data-slide="next">
-			<span class="fa fa-chevron-right"></span>
-		</a>
-	</div>
+                                
+                                <div class="item">
+                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+                                     <img src="http://via.placeholder.com/350x300">
+                                    <h5>Jack Doe</h5>
+                                </div>
+                            </div>  <!-- carousel-inner -->
+							
+                        </div>  <!-- carousel slide -->
+                        
+            </div>
+            
+       </div>
+   </div>    
+</section>
