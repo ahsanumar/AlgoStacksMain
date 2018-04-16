@@ -117,18 +117,16 @@ require "head.php";
   </div>
 
 </div>
-<div class="container">
+<!--<div class="container">
   <h2>Our Testimonials</h2>
   <p> Take a look below to learn what our clients are saying about us</p>  
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
+    Indicators
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="101" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="102"></li>
       <li data-target="#myCarousel" data-slide-to="103"></li>
     </ol>
-
-    <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
         <img src="assets/images/image101.jpg" alt="img" style="width:100%;">
@@ -151,4 +149,51 @@ require "head.php";
       <span class="sr-only">Next</span>
     </a>
   </div>
-</div>
+</div>-->
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" media="all">
+	
+<div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
+		<div class="testimonial4_header">
+			<h4>what our clients are saying</h4>
+		</div>
+		<ol class="carousel-indicators">
+			<li data-target="#testimonial4" data-slide-to="0" class="active"></li>
+			<li data-target="#testimonial4" data-slide-to="1"></li>
+			<li data-target="#testimonial4" data-slide-to="2"></li>
+		</ol>
+		<div class="carousel-inner" role="listbox">
+			<div class="item active">
+				<div class="testimonial4_slide">
+					<img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
+					<p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
+					<h4>Ben Hanna</h4>
+				</div>
+			</div>
+			<div class="item">
+				<div class="testimonial4_slide">
+					<img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
+					<p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
+					<h4>Ben Hanna</h4>
+				</div>
+			</div>
+			<div class="item">
+				<div class="testimonial4_slide">
+					<img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
+					<p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
+					<h4>Ben Hanna</h4>
+				</div>
+			</div>
+		</div>
+		<a class="left carousel-control" href="#testimonial4" role="button" data-slide="prev">
+			<span class="fa fa-chevron-left"></span>
+		</a>
+		<a class="right carousel-control" href="#testimonial4" role="button" data-slide="next">
+			<span class="fa fa-chevron-right"></span>
+		</a>
+	</div>
